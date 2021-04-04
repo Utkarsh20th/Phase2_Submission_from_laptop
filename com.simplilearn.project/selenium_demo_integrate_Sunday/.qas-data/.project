@@ -1,0 +1,18 @@
+{
+    "additionalFields": {
+        "windows": {
+            "appname": "C:\\Users\\Utkarshk\\eclipse\\jee-2020-12\\eclipse\\eclipse.exe"
+        }
+    },
+    "framework": "qaf",
+    "language": "java",
+    "projectSettings": {
+        "projectName": "selenium_demo_integrate_Sunday",
+        "projectPath": "c:\\Users\\Utkarshk\\eclipse-workspace\\com.simplilearn.project"
+    },
+    "projectTypes": [
+        "windows"
+    ],
+    "key": "CjVXVaChQVv+6mlo1GOtvu8F1rye1bbO39bIgAN2JjMP2WnjrRXFvWFRtao95CcHKLZLrj9Kvso1AVEp33NLXMKpqUwWSHjynSNXTp0YurM=",
+    "shareable": "sharedFunction"
+}

@@ -1,0 +1,161 @@
+{
+    "steps": [
+        {
+            "command": "Click",
+            "element": "..window..window.2...group..group.5...button.2.",
+            "eArray": [
+                [
+                    "xpath=/Window/Window[2]/Group/Group[5]/Button[2]",
+                    "xpath"
+                ],
+                [
+                    "..window..window.2...group..group.5...button.2.",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "NotRun",
+            "elementKey": "..window..window.2...group..group.5...button.2.",
+            "elementDesc": "..window..window.2...group..group.5...button.2.",
+            "indexColumn": "",
+            "tcId": "17",
+            "tsId": 16,
+            "testData": false,
+            "duration": 2008000000,
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "..window..window.2...group..group.4...button.4.",
+            "eArray": [
+                [
+                    "xpath=/Window/Window[2]/Group/Group[4]/Button[4]",
+                    "xpath"
+                ],
+                [
+                    "..window..window.2...group..group.4...button.4.",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "NotRun",
+            "elementKey": "..window..window.2...group..group.4...button.4.",
+            "elementDesc": "..window..window.2...group..group.4...button.4.",
+            "indexColumn": "",
+            "tcId": "17",
+            "tsId": 16,
+            "testData": false,
+            "duration": 1395000000,
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "..window..window.2...group..group.5...button.9.",
+            "eArray": [
+                [
+                    "xpath=/Window/Window[2]/Group/Group[5]/Button[9]",
+                    "xpath"
+                ],
+                [
+                    "..window..window.2...group..group.5...button.9.",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "NotRun",
+            "elementKey": "..window..window.2...group..group.5...button.9.",
+            "elementDesc": "..window..window.2...group..group.5...button.9.",
+            "indexColumn": "",
+            "tcId": "17",
+            "tsId": 16,
+            "testData": false,
+            "duration": 1384000000,
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "..window..window.2...group..group.4...button.5.",
+            "eArray": [
+                [
+                    "xpath=/Window/Window[2]/Group/Group[4]/Button[5]",
+                    "xpath"
+                ],
+                [
+                    "..window..window.2...group..group.4...button.5.",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "NotRun",
+            "elementKey": "..window..window.2...group..group.4...button.5.",
+            "elementDesc": "..window..window.2...group..group.4...button.5.",
+            "indexColumn": "",
+            "tcId": "17",
+            "tsId": 16,
+            "testData": false,
+            "duration": 1404000000,
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Verify Text",
+            "element": "xpath..Window.Window.2..Group.Text.2.",
+            "eArray": [
+                [
+                    "xpath=/Window/Window[2]/Group/Text[2]",
+                    "xpath"
+                ],
+                [
+                    "xpath..Window.Window.2..Group.Text.2.",
+                    "key"
+                ]
+            ],
+            "input": "Display is 9",
+            "status": "NotRun",
+            "elementKey": "",
+            "elementDesc": "",
+            "indexColumn": "",
+            "tcId": "17",
+            "tsId": 16,
+            "testData": false,
+            "duration": 1251000000,
+            "errMessage": "",
+            "isRowExpanded": false
+        }
+    ],
+    "type": "windows",
+    "capabilities": {
+        "command": "start",
+        "capObj": {
+            "perfectoServer": {
+                "host": "",
+                "username": "",
+                "password": "",
+                "https": true
+            },
+            "desiredCapabilities": {
+                "platformName": "Windows",
+                "platformVersion": "",
+                "deviceName": "WindowsPC",
+                "app": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+            },
+            "type": "automaticServer",
+            "host": "localhost",
+            "port": "4723",
+            "path": "/wd/hub"
+        },
+        "type": "windows",
+        "isMobileWebOnDevice": false
+    },
+    "testDataExample": [],
+    "isTCValid": true,
+    "externalTestData": false,
+    "dbDetails": {},
+    "recordSessionType": "multiple",
+    "tags": [],
+    "shared": false,
+    "executionStatus": "NotRun"
+}

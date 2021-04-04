@@ -1,0 +1,27 @@
+{
+    "additionalFields": {
+        "web": {
+            "baseurl": "http://qas.qmetry.com/bank"
+        },
+        "webservice": {
+            "baseurl": "http://qas.qmetry.com/bank"
+        },
+        "windows": {
+            "appname": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+        }
+    },
+    "framework": "qaf",
+    "isSampleProject": true,
+    "language": "java",
+    "projectSettings": {
+        "projectName": "Selenium_demo",
+        "projectPath": "c:\\Users\\Utkarshk\\eclipse-workspace\\com.simplilearn.project"
+    },
+    "projectTypes": [
+        "web",
+        "webservice",
+        "windows"
+    ],
+    "key": "CjVXVaChQVv+6mlo1GOtvu8F1rye1bbO39bIgAN2JjMP2WnjrRXFvWFRtao95CcHKLZLrj9Kvso1AVEp33NLXMKpqUwWSHjynSNXTp0YurM=",
+    "shareable": "sharedFunction"
+}

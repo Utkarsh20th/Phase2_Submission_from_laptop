@@ -1,0 +1,11 @@
+
+text.txtusername={"locator":"id=txtUsername","desc":"Input for txtUsername"}
+password.txtpassword={"locator":"id=txtPassword","desc":"txtPassword password"}
+button.btnlogin={"locator":"id=btnLogin","desc":"BUTTON btnLogin"}
+strong.usergloberank={"locator":"id=user-globe-rank","desc":"STRONG user-globe-rank"}
+number.enteramountforcredit={"locator":"xpath=//div[2]/input","desc":"Enter amount for credit number"}
+button.button11={"locator":"xpath=//div[2]/span/button","desc":"BUTTON BUTTON11"}
+button.logout={"locator":"xpath=//button","desc":"BUTTON LOGOUT"}
+button.credit={"locator":"xpath=.//button[text()='Credit']","desc":"BUTTON CREDIT"}
+text.currentbalance={"locator":"id=user-globe-rank","desc":"Current Balance"}
+operation.success.message={"locator":"xpath=//div/div","desc":"Text DIV"}

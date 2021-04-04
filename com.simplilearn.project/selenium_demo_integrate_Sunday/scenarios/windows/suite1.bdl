@@ -1,0 +1,10 @@
+
+@description:Sample Test Scenario
+@SMOKE
+
+SCENARIO: SampleTest
+
+	Given get '/'
+	
+END
+
