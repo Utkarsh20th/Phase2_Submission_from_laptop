@@ -1,7 +1,7 @@
 # Phase2_Submission_from_laptop
 
 1: Open Github link: https://github.com/
-2: Clone directory on your local using code: git clone
+2: Clone directory on your local using code: git clone https://github.com/Utkarsh20th/Phase2_Submission_from_laptop.git
 3: Clone directory on your local using code: git clone
 
 
