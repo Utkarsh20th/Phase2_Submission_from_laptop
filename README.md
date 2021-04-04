@@ -29,6 +29,9 @@ Path2_Submission_from_laptop --> com.simplilearn.project --> src --> framework.e
 Screenshots:
 Screenshots for this code execution are named as : [Screenshot_1.png] to [Screenshot_5.png]. They were attached in the Screenshots field when submimtting the Simplilearn Project.
 
+Email-able TestNG execution report [Test Artifact]:
+It is with name [emailable-report.html] for the code [Path2_Submission_from_laptop --> com.simplilearn.project --> src --> framework.excel --> TestNG_withExcelDataProvider.java] to show the capability of "reading an excel file"
+
 Note:
 - in com.simplilearn.project --> src --> framework.excel --> Constants.java, in line 6, change the path where the user has stored data sheet [TestData.xlsx] present in Phase2_Submission_from_laptop repository
 - in com.simplilearn.project --> src --> framework.excel --> TestNG_withExcelDataProvide.java, in line 159, change the path to the desired folder where the user wants to store the screenshots of the execution
