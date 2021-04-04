@@ -1,8 +1,13 @@
 # Phase2_Submission_from_laptop
 
-1: Open Github link: https://github.com/
-2: Clone directory on your local using code: git clone https://github.com/Utkarsh20th/Phase2_Submission_from_laptop.git
-3: Clone directory on your local using code: git clone https://github.com/Utkarsh20th/laptop_Selenium_JARS.git - in case the user needs any required jar
+1:
+Open Github link: https://github.com/
+
+2:
+Clone directory on your local using code: git clone https://github.com/Utkarsh20th/Phase2_Submission_from_laptop.git
+
+3:
+Clone directory on your local using code: git clone https://github.com/Utkarsh20th/laptop_Selenium_JARS.git - in case the user needs any required jar
 
 
 
@@ -39,3 +44,12 @@ Path2_Submission_from_laptop --> simplilearn.HnM.project --> src/test/java --> r
 
 Path to Extent (html) report folder:
 simplilearn.HnM.project --> target --> cucumber-reports --> Simplilearn_Phase2_Project_Report.html
+
+
+
+
+
+3)
+ZephyrJiraSeleniumJenkins-0.0.1-SNAPSHOT.pom is a Jenkins execution.
+Its screenshots are shared by names: [Jenkins_screenshot_1.jpg] and [Jenkins_screenshot_2.jpg]
+
