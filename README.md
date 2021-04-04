@@ -2,7 +2,7 @@
 
 1: Open Github link: https://github.com/
 2: Clone directory on your local using code: git clone https://github.com/Utkarsh20th/Phase2_Submission_from_laptop.git
-3: Clone directory on your local using code: git clone
+3: Clone directory on your local using code: git clone https://github.com/Utkarsh20th/laptop_Selenium_JARS.git - in case the user needs any required jar
 
 
 
@@ -20,6 +20,10 @@ Sometimes a web page does not load within a set time limit. So this listener can
 Path to execute the code:
 Path2_Submission_from_laptop --> com.simplilearn.project --> src --> framework.excel --> TestNG_withExcelDataProvider.java  -->  run as  -->  TestNG Test
 (If we read the code:     the data provider "ExcelAsDataProvider" shows the capability of reading from excel     the data provider "@CustomTestNGAnnotation(10)" shows the capability of re-running a piece of code 10 times)
+
+Note:
+- in com.simplilearn.project --> src --> framework.excel --> Constants.java, in line 6, change the path where the user has stored data sheet [TestData.xlsx] present in Phase2_Submission_from_laptop repository
+- in com.simplilearn.project --> src --> framework.excel --> TestNG_withExcelDataProvide.java, in line 159, change the path to the desired folder where the user wants to store the screenshots of the execution 
 
 
 
